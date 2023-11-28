@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\soma\soma\bin\Debug\soma.exe.config
+C:\temp\ws-vs2019\soma\soma\bin\Debug\soma.exe
+C:\temp\ws-vs2019\soma\soma\bin\Debug\soma.pdb
+C:\temp\ws-vs2019\soma\soma\obj\Debug\soma.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\soma\soma\obj\Debug\soma.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\soma\soma\obj\Debug\soma.exe
+C:\temp\ws-vs2019\soma\soma\obj\Debug\soma.pdb
